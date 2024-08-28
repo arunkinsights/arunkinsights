@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arun Kumar Singh (@arunkinsights)
+- 👋 Hi, I’m Arun Kumar Singh (@arunkinsights).
   I am an experienced Data Analyst with over a decade of experience in data analysis and Management Information Systems (MIS).
   I am passionate about leveraging data to uncover insights, solve complex business challenges, and drive strategic decision-making.
   My journey in data analytics has been fueled by a constant desire to learn and apply the latest tools and techniques in the field.
