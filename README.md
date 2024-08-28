@@ -10,7 +10,7 @@
   I actively work on data analytics projects, which I share here on my GitHub for others to learn from and collaborate on.
 - 💞️ Collaboration: I am eager to collaborate on data analysis projects, particularly those that involve open-source data science initiatives or real-world business applications.
   I am open to opportunities where I can apply my skills to drive data-driven decision-making and contribute to impactful projects.
-- 📫 How to reach me: Feel free to reach out to me via email at arunkinsights@gmail.com or connect with me on LinkedIn.
+- 📫 How to reach me: Feel free to reach out to me via email at arunkinsights@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/arunkinsights/
   I am always open to discussing new ideas, collaborations, or job opportunities in the field of Data Analytics.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: With a strong foundation in both technical and business domains, I am not just a data enthusiast but also a continuous learner who enjoys exploring new technologies and applying them to solve real-world problems.
